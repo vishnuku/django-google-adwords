@@ -25,8 +25,7 @@ extra = {}
 classes = """
     Development Status :: 4 - Beta
     Framework :: Django
-    Framework :: Django :: 1.7
-    Framework :: Django :: 1.8
+    Framework :: Django :: 1.11.1
     License :: OSI Approved :: MIT License
     Topic :: System :: Distributed Computing
     Topic :: Software Development :: Object Brokering
